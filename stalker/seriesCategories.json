@@ -1,0 +1,19 @@
+{
+ "js": [
+  {
+   "id": "*",
+   "title": "All",
+   "alias": "All",
+   "active_sub": true,
+   "censored": 0
+  },
+  {
+   "id": "1",
+   "title": "InoxTV Series",
+   "modified": "",
+   "number": 1,
+   "alias": "India",
+   "censored": 0
+  }
+ ]
+}

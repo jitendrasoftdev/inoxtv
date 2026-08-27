@@ -1,0 +1,41 @@
+{
+ "info": {
+  "kinopoisk_url": "https://logo.cdnlop.com/logotv/plus.png",
+  "tmdb_id": 1256290,
+  "name": "Movie",
+  "o_name": "Movie",
+  "cover_big": "https://logo.cdnlop.com/logotv/plus.png",
+  "movie_image": "https://logo.cdnlop.com/logotv/plus.png",
+  "release_date": "2024-09-26",
+  "episode_run_time": 90,
+  "youtube_trailer": "PJn01e2Qs00",
+  "director": "Jitendra Software Development",
+  "actors": "Jitendra Software Development, InoxTv, google",
+  "cast": "Jitendra Software Development, InoxTv, google",
+  "description": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+  "plot": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+  "age": "",
+  "mpaa_rating": "",
+  "rating_count_kinopoisk": 0,
+  "country": "India",
+  "genre": "Drama",
+  "backdrop_path": [
+   "https://logo.cdnlop.com/logotv/plus.png"
+  ],
+  "duration_secs": 5400,
+  "duration": "01:30:00",
+  "video": [],
+  "audio": [],
+  "bitrate": 0,
+  "rating": 7
+ },
+ "movie_data": {
+  "stream_id": 1164376,
+  "name": "Movie (2024)",
+  "added": "1761686729",
+  "category_id": "1",
+  "container_extension": "mp4",
+  "custom_sid": null,
+  "direct_source": ""
+ }
+}

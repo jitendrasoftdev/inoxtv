@@ -1,0 +1,58 @@
+{
+ "seasons": [
+  {
+   "air_date": null,
+   "episode_count": 0,
+   "id": 366742,
+   "name": "Season 1",
+   "overview": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+   "season_number": 1,
+   "vote_average": 0,
+   "cover": "https://logo.cdnlop.com/logotv/plus.png",
+   "cover_big": "https://logo.cdnlop.com/logotv/plus.png"
+  }
+ ],
+ "info": {
+  "name": "Season 1",
+  "cover": "https://logo.cdnlop.com/logotv/plus.png",
+  "plot": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+  "cast": "",
+  "director": "",
+  "genre": "",
+  "releaseDate": "",
+  "last_modified": "1772894766",
+  "rating": "0",
+  "rating_5based": 0,
+  "backdrop_path": [
+   "https://logo.cdnlop.com/logotv/plus.png"
+  ],
+  "youtube_trailer": "",
+  "episode_run_time": "0",
+  "category_id": "20920"
+ },
+ "episodes": {
+  "1": [
+   {
+    "id": "1155472",
+    "episode_num": 1,
+    "title": "Episode S01 E01",
+    "container_extension": "mp4",
+    "info": {
+     "releasedate": "",
+     "plot": "",
+     "duration_secs": 112,
+     "duration": "00:01:52",
+     "movie_image": "",
+     "bitrate": 0,
+     "rating": "",
+     "season": "01",
+     "tmdb_id": ""
+    },
+    "custom_sid": null,
+    "added": "1761686102",
+    "season": 1,
+    "direct_source": ""
+   }
+  ]
+ }
+}

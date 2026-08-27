@@ -1,0 +1,29 @@
+[
+    {
+        "num": 1,
+        "name": "Live TV 1",
+        "stream_type": "live",
+        "stream_id": 246777,
+        "stream_icon": "http://logo.cdnlop.com/logotv/plus.png",
+        "epg_channel_id": null,
+        "category_id": "1"
+    },
+    {
+        "num": 2,
+        "name": "Live TV 2",
+        "stream_type": "live",
+        "stream_id": 1893,
+        "stream_icon": "http://logo.cdnlop.com/logotv/plus.png",
+        "epg_channel_id": null,
+        "category_id": "1"
+    },
+    {
+        "num": 3,
+        "name": "Live TV 3",
+        "stream_type": "live",
+        "stream_id": 232051,
+        "stream_icon": "http://logo.cdnlop.com/logotv/plus.png",
+        "epg_channel_id": null,
+        "category_id": "1"
+    }
+   ]

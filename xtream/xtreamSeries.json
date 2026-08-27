@@ -1,0 +1,62 @@
+[
+    {
+        "num": 1,
+        "name": "Series 1",
+        "series_id": 1,
+        "cover": "https://logo.cdnlop.com/logotv/plus.png",
+        "plot": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+        "cast": "Jitendra Software Development",
+        "director": "Jitendra Software Development",
+        "genre": "Action & Adventure, Drama, Soap",
+        "releaseDate": "",
+        "last_modified": "1770273229",
+        "rating": "7.8",
+        "rating_5based": 0,
+        "backdrop_path": [
+            "https://logo.cdnlop.com/logotv/plus.png"
+        ],
+        "youtube_trailer": "",
+        "episode_run_time": "0",
+        "category_id": "1"
+    },
+    {
+        "num": 2,
+        "name": "Series 2",
+        "series_id": 2,
+        "cover": "https://logo.cdnlop.com/logotv/plus.png",
+        "plot": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+        "cast": "Jitendra Software Development, Inox TV",
+        "director": "Jitendra Software Development, Inox Tv",
+        "genre": "Drama, Crime, Action & Adventure",
+        "releaseDate": "",
+        "last_modified": "1770273231",
+        "rating": "8.1",
+        "rating_5based": 4,
+        "backdrop_path": [
+            "https://logo.cdnlop.com/logotv/plus.png"
+        ],
+        "youtube_trailer": "",
+        "episode_run_time": "43",
+        "category_id": "1"
+    },
+    {
+        "num": 3,
+        "name": "Series 3",
+        "series_id": 3,
+        "cover": "https://logo.cdnlop.com/logotv/plus.png",
+        "plot": "Transform your Android device into a powerful entertainment hub. InoxTV lets you stream live TV channels, movies, and TV shows from your IPTV playlists with a sleek, intuitive interface designed for both Android phones and Android TV.",
+        "cast": "Jitendra Software Development, Inox TV",
+        "director": "Jitendra Software Development, Inox Tv",
+        "genre": "Action & Adventure, Drama, Soap",
+        "releaseDate": "",
+        "last_modified": "1770276568",
+        "rating": "9.8",
+        "rating_5based": 4,
+        "backdrop_path": [
+            "https://logo.cdnlop.com/logotv/plus.png"
+        ],
+        "youtube_trailer": "Uy2GkZW6pd8",
+        "episode_run_time": "0",
+        "category_id": "1"
+    }
+]
